@@ -1,8 +1,5 @@
 ###
-- 🔭 I'm a Student, Computer-Science, Developer
-- 🌱 I’m currently working on a my TAKECARE - animal adoption project
-- 👯 I’m currently learning Fullstack
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 <p float="left">
 - 🧰 Languages and Tools: 
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/javascript/javascript_32x32.png">
